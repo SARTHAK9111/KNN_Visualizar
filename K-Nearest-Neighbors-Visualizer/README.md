@@ -5,4 +5,5 @@ Visualizing K Nearest Neighbors Algorithm
 - Chose the color from the bottom Color Buttons to set the data points
 - On the top left you can switch between "Placing the points" and "Executing the KNN Algorithm"
 
-### [Click Here](https://patroswastik.github.io/K-Nearest-Neighbors-Visualizer/) To Execute The Algorithm
+https://github.com/SARTHAK9111/KNN_Visualizar/assets/77686182/7cf39517-f592-4eef-aa4f-bd675a184acb
+
